@@ -161,7 +161,7 @@
           <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
           <InsideOutside state="Value">Inside</InsideOutside>
-          <MillingDirection state="Value">Climb</MillingDirection>
+          <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
           <LeadInMove state="Default" />
@@ -211,7 +211,7 @@
           <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
           <InsideOutside state="Value">Inside</InsideOutside>
-          <MillingDirection state="Value">Climb</MillingDirection>
+          <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
           <LeadInMove state="Default" />
@@ -261,7 +261,7 @@
           <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
           <InsideOutside state="Default">Outside</InsideOutside>
-          <MillingDirection state="Value">Climb</MillingDirection>
+          <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
           <CornerOvercut state="Default">False</CornerOvercut>
           <LeadInMove state="Default" />
